@@ -23,3 +23,7 @@
    .scale:hover {
     transform: scale(1.05); /* Увеличиваем масштаб */
 }
+body {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
