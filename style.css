@@ -10,3 +10,16 @@
 .magin-link {
     margin-inline: 1%;
 }
+
+.btn_card {
+    padding: 1%;
+    width: 110px;
+    margin-top: 10%;
+}
+.scale {
+    transition: 1s; /* Время эффекта */
+    padding: 5%;
+   }
+   .scale:hover {
+    transform: scale(1.05); /* Увеличиваем масштаб */
+}
